@@ -6,7 +6,7 @@
 
 * Linux Mint 17.3 MATE
 * Firefox 42.0
-* [d3.js](https://d3js.org/) [v4.5.0](https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js)
+* Python 3.4.3
 
 ## Webサービス
 
